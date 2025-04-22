@@ -1,6 +1,8 @@
-# Message Generating Website
+Message Generating Website
+==========================
 
-## What does this program do
+What does this program do
+-------------------------
 
 1. Running the program will display a random message that appears on the website
 2. Each time the user refreshes the page the website should show a new message
@@ -9,14 +11,15 @@
 
 1. This is a milestone project for myself to see if I can create a full stack project
 2. Project should be expandable :chart_with_upwards_trend: :
-  - Currently the project will be a simple, some HTML, CSS, and JS.
-  - Add user interactivity
-  - Add a like in the future
-  - Add a share quote button that copies the quote the clipboard :clipboard:
-  - Add a share creator button that links to my GitHub or LinkedIn or Portfolio website
-  - Maybe adding links to other GitHub project in the footer of the page
+  * Currently the project will be a simple, some HTML, CSS, and JS.
+  * Add user interactivity
+  * Add a like in the future
+  * Add a share quote button that copies the quote the clipboard :clipboard:
+  * Add a share creator button that links to my GitHub or LinkedIn or Portfolio website
+  * Maybe adding links to other GitHub project in the footer of the page
 
-## Things to do:
+Things to do:
+-------------
 
 :white_check_mark: 1. Come up with idea for website. Including quotes
 :white_check_mark: 2. Create a new repository on GitHub to start version control
