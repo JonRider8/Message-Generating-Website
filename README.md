@@ -12,9 +12,9 @@
 2. Project should be expandable :chart_with_upwards_trend: :
    - Currently, the project will be simple, with some HTML, CSS, and JS.
    - Add user interactivity
-   - Add a like in the future
-   - Add a share quote button that copies the quote to the clipboard :clipboard:
-   - Add a share creator button that links to my GitHub, LinkedIn, or Portfolio website
+   - Add a like button in the future :thumbsup:
+   - Add a 'share quote' button that copies the quote to the clipboard :clipboard:
+   - Add a 'share creator' button that links to my GitHub, LinkedIn, or Portfolio website
    - Maybe adding links to other GitHub projects in the footer of the page
 
 ## Things to do:

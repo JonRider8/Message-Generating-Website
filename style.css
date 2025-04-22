@@ -1,0 +1,52 @@
+body{
+  background-image: linear-gradient(#a580bf, #dcbbe6);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh; 
+  margin: 0; 
+}
+
+.introduction{
+  font-family: "Special Gothic", sans-serif;
+  font-weight: 500;
+  font-kerning: 2px;
+  text-align: center;
+  font-size: 30px;
+  color: #fff; 
+}
+
+.joke {
+  font-family: "Special Gothic", sans-serif;
+  text-align: center;
+  font-size: 30px; 
+  font-weight: 800;
+  color: #ffffff;
+  border: 5px solid #fff;
+  background-color: #a580bf;
+  display: inline-block;
+  padding: 25px;
+  margin: 0px auto;
+}
+
+.socials {
+  display: flex;
+  gap: 15px; 
+  justify-content: center;
+  align-items: center; 
+  font-family: "Special Gothic", sans-serif;
+  font-size: 15px;
+  color: #000000; 
+  margin-bottom: 1px;
+}
+
+#socialLink {
+  color: inherit; /*Keeps the text color consistent */
+}
+
+hr{
+  color:#fff;
+  margin: 0 auto;
+  width: 80%;
+  margin-bottom: 1px;
+}
