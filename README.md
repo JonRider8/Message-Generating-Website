@@ -25,7 +25,7 @@
 - [x] 3. Create basic framework for website
 - [x] 4. Work on back-end functionality to display a random message
 - [x] 5. Make website look appealing
-- [ ] 6. Create share button
+- [x] 6. Create share button
 - [x] 7. Create links to socials
 - [ ] 8. Add a like button _(Still have to learn about databases and setting up servers)_
-- [ ] 9. Add links to other GitHub Projects _(Continue to come back to this one)_
+- [ ] 9. Add links to other GitHub Projects :repeat: :_(Continue to come back to this one)_

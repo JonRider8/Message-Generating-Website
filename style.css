@@ -16,7 +16,7 @@ body{
   color: #fff; 
 }
 
-.joke {
+#jokeText {
   font-family: "Special Gothic", sans-serif;
   text-align: center;
   font-size: 30px; 
@@ -29,24 +29,38 @@ body{
   margin: 0px auto;
 }
 
+#shareText{
+  font-family: "Special Gothic", sans-serif;
+  text-align: center;
+  font-size: 20px; 
+  font-weight: 800;
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 .socials {
   display: flex;
+  position: fixed;
+  bottom: 0;;
+  left: 0;
+  right: 0;
   gap: 15px; 
   justify-content: center;
   align-items: center; 
   font-family: "Special Gothic", sans-serif;
   font-size: 15px;
-  color: #000000; 
-  margin-bottom: 1px;
+  margin-bottom: 10px;
+  text-decoration: underline;
 }
 
-#socialLink {
-  color: inherit; /*Keeps the text color consistent */
+#socialLink{
+  color: #000000;
 }
 
 hr{
+  display: flex;
   color:#fff;
-  margin: 0 auto;
+  margin: 0px auto;
   width: 80%;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
 }

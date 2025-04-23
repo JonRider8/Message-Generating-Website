@@ -2,6 +2,14 @@
 <html>
     <head>
         <title>Get a random Dad Joke</title>
+        <!-- Trying to use some meta data techiques -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Get a random dad joke with the click of a button!">
+        <meta name="keywords" content="dad jokes, random jokes, funny jokes, humor, entertainment">
+        <meta name="author" content="Jonathan Rider">
+        
+        <!--Links to style.css and fonts-->
         <link rel="stylesheet" href="./style.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,16 +18,16 @@
     </head>
     <body>
         <div class="introduction">
-            <h1>Welcome to Random Dad Joke generator</h1>
-            <h3>Everytime you refresh the website you'll get a new dad joke</h3>
+            <h1 id="welcome">Welcome to Random Dad Joke generator</h1>
+            <p id="description">To get a new dad joke, refresh the page</p>
         </div>
 
-        <div class="joke">
-            <p id="jokeText">Click here for a dad joke!</p>
-        </div>
+        <p id="jokeText">Click here for a dad joke!</p>
+        
+        <p id="shareText">Click here to share this joke! &#128279</p>
 
         <hr>
-
+        
         <div class="socials">
             <a href="https://github.com/JonRider8" id="socialLink">GitHub</a>
             <a href="in/jonathan-rider-b760161a0" id="socialLink">LinkedIn</a>

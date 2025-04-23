@@ -17,10 +17,9 @@ const quotes = ["RIP boiling water, you will be mist.",
 ]
 
 const generateQuote = quote => {
+    // Generate a random index to select a quote from the array
     return quote[Math.floor(Math.random() * quote.length)];
 }
-
-generateQuote(quotes);
 
 export { generateQuote };
 export default quotes;
